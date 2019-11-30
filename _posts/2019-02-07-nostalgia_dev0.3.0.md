@@ -29,4 +29,12 @@ This is more of an intermediate update due to some upcoming rewrites of large pa
 * (cloud) lighting transition at sunrise/sunset can look strange
 * translucent objects above clouds can cause blending issues
 
+**By downloading you agree to the terms of use as detailed [here](https://rre36.github.io/nostalgia_shader_web/license/).**
+
 Download: [Nostalgia Dev 0.3](https://github.com/rre36/glsl_nostalgia/releases/download/v0.3/Nostalgia_dev0.3.zip)
+
+***
+
+**For more detailed information and support check my discord server.**
+
+**RRe36's Kappa Server: [Discord Invite](https://discord.gg/y5xzQ6H)**

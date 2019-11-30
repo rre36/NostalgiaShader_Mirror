@@ -27,5 +27,12 @@ bigimg:
 * fixed nvidia support
 * fixed water waves circling around world origin
 
+**By downloading you agree to the terms of use as detailed [here](https://rre36.github.io/nostalgia_shader_web/license/).**
 
 Download: [Nostalgia Dev 0.6.1](https://github.com/rre36/glsl_nostalgia/releases/download/v0.6.1/Nostalgia_dev0.6.1.zip)
+
+***
+
+**For more detailed information and support check my discord server.**
+
+**RRe36's Kappa Server: [Discord Invite](https://discord.gg/y5xzQ6H)**

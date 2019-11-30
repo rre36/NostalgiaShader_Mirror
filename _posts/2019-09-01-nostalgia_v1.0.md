@@ -28,5 +28,12 @@ bigimg:
 * fixed light transition
 * fixed error when enabling cloud shadows with realistic clouds
 
+**By downloading you agree to the terms of use as detailed [here](https://rre36.github.io/nostalgia_shader_web/license/).**
 
 Download: [Nostalgia v1.0](https://github.com/rre36/glsl_nostalgia/releases/download/v1.0/Nostalgia_v1.0.zip)
+
+***
+
+**For more detailed information and support check my discord server.**
+
+**RRe36's Kappa Server: [Discord Invite](https://discord.gg/y5xzQ6H)**
