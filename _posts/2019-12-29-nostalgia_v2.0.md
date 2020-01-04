@@ -32,7 +32,9 @@ bigimg:
 
 **By downloading you agree to the terms of use as detailed [here](https://rre36.github.io/nostalgia_shader_web/license/).**
 
-Download: [Nostalgia v2.0](https://github.com/rre36/nostalgia_shader_web/releases/download/v2.0/Nostalgia_v2.0.zip)
+**Download:**<br>
+[Nostalgia v2.0 (Curseforge)](https://www.curseforge.com/minecraft/customization/nostalgia-shader/files/2851300) <br>
+[Nostalgia v2.0 (Github Mirror)](https://github.com/rre36/nostalgia_shader_web/releases/download/v2.0/Nostalgia_v2.0.zip)
 
 ***
 
