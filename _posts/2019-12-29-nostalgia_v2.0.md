@@ -56,8 +56,6 @@ bigimg:
 
 **Note:** Downloading via Curseforge is a way to support me without donating due to the Curseforge rewards program.
 
-
-
 ***
 
 **For more detailed information and support check my discord server.**
