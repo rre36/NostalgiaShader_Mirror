@@ -26,8 +26,7 @@ description: Accidentally super duper
 navbar-links:
   #About Me: "aboutme"
   Screenshots: "screens"
-  Wiki: "https://github.com/rre36/glsl_nostalgia/wiki"
-  Issues: "https://github.com/rre36/glsl_nostalgia/issues"
+  Wiki: "https://github.com/rre36/nostalgia_shader_web/wiki"
   License: "license"
   Curseforge: "https://www.curseforge.com/minecraft/customization/nostalgia-shader"
   Patreon: "https://www.patreon.com/rre36"
