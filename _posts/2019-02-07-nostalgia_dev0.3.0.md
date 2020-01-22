@@ -31,7 +31,7 @@ This is more of an intermediate update due to some upcoming rewrites of large pa
 
 **By downloading you agree to the terms of use as detailed [here](https://rre36.github.io/nostalgia_shader_web/license/).**
 
-Download: [Nostalgia Dev 0.3](https://github.com/rre36/glsl_nostalgia/releases/download/v0.3/Nostalgia_dev0.3.zip)
+Download: [Nostalgia Dev 0.3](https://github.com/rre36/glsl_release_archive/releases/download/nostalgia_0.3/Nostalgia_dev0.3.0.zip)
 
 ***
 

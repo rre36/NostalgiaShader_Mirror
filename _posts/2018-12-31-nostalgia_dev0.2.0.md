@@ -18,7 +18,7 @@ tags: [release, dev]
 
 **By downloading you agree to the terms of use as detailed [here](https://rre36.github.io/nostalgia_shader_web/license/).**
 
-Download: [Nostalgia Dev 0.2](https://github.com/rre36/glsl_nostalgia/releases/download/v0.2/NostalgiaMain_dev0.2.zip)
+Download: [Nostalgia Dev 0.2](https://github.com/rre36/glsl_release_archive/releases/download/nostalgia_0.2/Nostalgia_dev0.2.1.zip)
 
 ***
 

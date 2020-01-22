@@ -30,7 +30,7 @@ bigimg:
 
 **By downloading you agree to the terms of use as detailed [here](https://rre36.github.io/nostalgia_shader_web/license/).**
 
-Download: [Nostalgia v1.0](https://github.com/rre36/glsl_nostalgia/releases/download/v1.0/Nostalgia_v1.0.zip)
+Download: [Nostalgia v1.0](https://github.com/rre36/glsl_release_archive/releases/download/nostalgia_1.0/Nostalgia_v1.0.zip)
 
 ***
 
