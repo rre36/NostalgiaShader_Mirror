@@ -4,3 +4,8 @@ Github, pre repo movement: 20k
 Github: 330
 Curseforge: 5.5k
 Total: 26k
+
+2020-02-20
+Github: 710
+Curseforge: 10k
+Total: 31k
