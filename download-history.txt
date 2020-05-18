@@ -9,3 +9,8 @@ Total: 26k
 Github: 710
 Curseforge: 10k
 Total: 31k
+
+2020-05-18
+Github: 5k
+Curseforge: 40k
+Total: 65k
